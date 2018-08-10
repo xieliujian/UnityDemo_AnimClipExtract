@@ -1,8 +1,4 @@
-# UnityDemo_AnimClipExtract
-
-****
-
-<h2 id="Demo3">AnimClipExtract的Demo展示提取AnimationClip的方法</h2>
+# UnityDemo_AnimClipExtract展示提取AnimationClip的方法
 
 # 文档链接地址
 [https://zhuanlan.zhihu.com/p/41089381](https://zhuanlan.zhihu.com/p/41089381 "动画提取文档")
